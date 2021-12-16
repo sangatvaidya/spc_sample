@@ -4,8 +4,8 @@ This is a sample Java repository used for testing SPC protocol. The token for SP
 
 Key Authorization
 
-===================
 
-rkzCCtSNDwIfFFRyHuURQZEjiGoObsgRFaUQoSvdojc.PVQWIwdDiKSmB-X7P11JfDtTmrcM_j0zPcJDmemMm8I
 
-===================
+||SCS Response|| =+>rkzCCtSNDwIfFFRyHuURQZEjiGoObsgRFaUQoSvdojc.PVQWIwdDiKSmB-X7P11JfDtTmrcM_j0zPcJDmemMm8I<+=
+
+
