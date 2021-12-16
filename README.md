@@ -1,6 +1,6 @@
-# spc_sample
+# scs_sample
 
-This is a sample Java repository used for testing SPC protocol. The token for SPC protocol challenge will be displayed in the readme file.
+This is a sample Java repository used for testing SCS protocol. The token for SCS protocol challenge will be displayed in the readme file.
 
 Key Authorization
 
