@@ -1,11 +1,11 @@
 # scs_sample
 
-This is a sample Java repository used for testing SCS protocol. The token for SCS protocol challenge will be displayed in the readme file.
+This is a sample project to test the SCS service.
 
-Key Authorization
+<hr>
 
+Software certification service:
 
+||SCS Response|| +=+ lWTW2-FfRchjHHGCHA28xHpTlk-2vcXM-AJ2ry96Tps.1oOTMLVPfx9hnwNlkDbtTfiJHSNhZOtsO2sWLlCxEMI +=+
 
-||SCS Response|| =+>rkzCCtSNDwIfFFRyHuURQZEjiGoObsgRFaUQoSvdojc.PVQWIwdDiKSmB-X7P11JfDtTmrcM_j0zPcJDmemMm8I<+=
-
-
+<hr>
